@@ -1,0 +1,9 @@
+## Hello World
+
+```javascript
+function sayHello(name) {
+  return `Hello, ${name}!`;
+}
+
+console.log(sayHello("WSB")); // Output: Hello, WSB!
+```
