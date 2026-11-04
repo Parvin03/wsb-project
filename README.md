@@ -1,5 +1,7 @@
 # wsb-project
 
+> A simple project for learning Git and GitHub
+
 ## Description
 
 This repository was created for the Commercialization course at WSB. It is used to learn the basics of project management with Git and GitHub, such as creating a repository, making commits, and pushing changes.
